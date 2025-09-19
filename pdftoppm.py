@@ -4,7 +4,7 @@
 # Author ID: reodus.x
 # Date Created: 2025/09/18
 # Purpose: INSTALL pdftoppm
-### For converting pdf files to images like png or jpeg
+# Use case: For converting pdf files to images like png or jpeg
 
 sudo apt update
 sudo apt install poppler-utils
