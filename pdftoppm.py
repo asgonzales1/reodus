@@ -1,4 +1,9 @@
-### INSTALL pdftoppm
+#!/usr/bin/env python3
+
+# Author: Arvin Gonzales
+# Author ID: reodus.x
+# Date Created: 2025/09/18
+# Purpose: INSTALL pdftoppm
 ### For converting pdf files to images like png or jpeg
 
 sudo apt update
