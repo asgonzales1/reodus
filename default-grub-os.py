@@ -1,4 +1,9 @@
-### Change default boot OS in grub
+#!/usr/bin/env python3
+
+# Author: Arvin Gonzales
+# Author ID: asgonzales1
+# Date Created: 2025/09/18
+# Purpose: Change default boot OS in grub
 
 ### open grub file
 sudo vim /etc/default/grub			
