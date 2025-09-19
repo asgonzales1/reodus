@@ -4,6 +4,7 @@
 # Author ID: reodus.x
 # Date Created: 2025/09/18
 # Purpose: Remove Linux in a windows partition boot
+# Use case: When linux OS partition got corrupted or simply make windows as main OS
 
 # Go to disk mgt and delete partition w/ no drive letter
 # Open command prompt as admin 
