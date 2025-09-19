@@ -1,4 +1,9 @@
-### Remove Linux in a windows partition boot
+#!/usr/bin/env python3
+
+# Author: Arvin Gonzales
+# Author ID: reodus.x
+# Date Created: 2025/09/18
+# Purpose: Remove Linux in a windows partition boot
 
 # Go to disk mgt and delete partition w/ no drive letter
 # Open command prompt as admin 
